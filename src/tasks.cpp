@@ -117,7 +117,6 @@ vector<int> find_common_elements(vector<int> &arr_a, vector<int> &arr_b) {
             }
 
         }
-
     }
     return common;
 }
